@@ -1,6 +1,6 @@
 # BeeYou 
 
-## BeeYou BeeUnique 🐝👑
+## BeeYou 🐝 BeeUnique 👑
 
 ### Visão Geral
 
